@@ -1,0 +1,46 @@
+[{
+    "active": true,
+    "item": [
+        "Home",
+        {
+            "menuItem1": "Lorem",
+            "menuItem2": "Lorem"
+        }
+    ]
+},
+{
+    "active": false,
+    "item": [
+        "Shop",
+        {
+            "menuItem1": "Lorem",
+            "menuItem2": "Lorem",
+            "menuItem3": "Lorem",
+            "menuItem4": "Lorem",
+            "menuItem5": "Lorem"
+        }
+    ]
+},
+{
+    "active": false,
+    "item": ["About"]
+},
+{
+    "active": false,
+    "item": ["Blog"]
+},
+{
+    "active": false,
+    "item": ["Contact"]
+},
+{
+    "active": false,
+    "item": [
+        "Shop by brand",
+        {
+            "menuItem1": "Lorem",
+            "menuItem2": "Lorem",
+            "menuItem3": "Lorem"
+        }
+    ]
+}]

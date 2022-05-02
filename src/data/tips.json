@@ -1,0 +1,51 @@
+[
+    {
+        "type": "Tips & Tricks",
+        "id": 1,
+        "title": "How to 'loose leash walk' your dog",
+        "date": "April 21st, 2020",
+        "text": "Donec sollicitudin molestie malesuada. Vivamus suscipit tortor eget felis porttitor volutpat vestibulum ac diam sit."
+    },
+    {
+        "type": "Tips & Tricks",
+        "id": 2,
+        "title": "Stop cats from scratching furniture",
+        "date": "April 19th, 2020",
+        "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Necessitatibus qui, ab tempore illo laboriosam."
+    },
+    {
+        "type": "Tips & Tricks",
+        "id": 3,
+        "title": "Where to buy the best pet food",
+        "date": "April 18th, 2020",
+        "text": "Auctor est habitasse amet nunc, interdum vel mattis sodales cras. Ut nulla quis nunc, tincidunt eu. Eu."
+    },
+    {
+        "type": "Tips & Tricks",
+        "id": 4,
+        "title": "Proper care for your pet toys",
+        "date": "April 17th, 2020",
+        "text": "Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Proin eget tortor risus vestibulum ante ipsum."
+    },
+    {
+        "type": "Tips & Tricks",
+        "id": 5,
+        "title": "How to choose the best food for your dog",
+        "date": "March 1st, 2020",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, optio aliquid, culpa pariatur minima."
+    },
+    {
+        "type": "Tips & Tricks",
+        "id": 6,
+        "title": "How to choose the best food for your dog",
+        "date": "February 1st, 2020",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, optio aliquid, culpa pariatur minima."
+    },
+    {
+        "type": "Tips & Tricks",
+        "id": 7,
+        "title": "How to choose the best food for your dog",
+        "date": "January 1st, 2020",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque, optio aliquid, culpa pariatur minima."
+    }
+]
